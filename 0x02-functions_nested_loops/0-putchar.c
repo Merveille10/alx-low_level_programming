@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+#include "main.h"
 /**
  * main -  prints the string  "_putchar" to the output
  * Return: 0 success
